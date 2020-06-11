@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zachgibson/react-native-parallax-swiper.git"
+    "url": "git+https://github.com/jrbadcoder/rn-parallax-swiper.git"
   },
   "keywords": [
     "react-native-component",
@@ -18,9 +18,9 @@
   ],
   "author": "Zach Gibson",
   "license": "MIT",
-  "homepage": "https://github.com/zachgibson/react-native-parallax-swiper#react-native-parallax-swiper",
+  "homepage": "https://github.com/jrbadcoder/rn-parallax-swiper#rn-parallax-swiper",
   "bugs": {
-    "url": "https://github.com/zachgibson/react-native-parallax-swiper/issues"
+    "url": "https://github.com/jrbadcoder/rn-parallax-swiper/issues"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
